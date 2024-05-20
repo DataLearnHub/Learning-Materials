@@ -1,0 +1,2695 @@
+SalesOrderNumber,SalesOrderLineNumber,OrderDate,CustomerName,EmailAddress,Item,Quantity,UnitPrice,TaxAmount
+SO45728,1,2024-02-21,Madison Hughes,madison47@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45731,1,2024-02-21,Hunter Griffin,hunter16@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45734,1,2024-02-21,Haley Powell,haley27@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45733,1,2024-02-21,Ryan Smith,ryan39@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45732,1,2024-02-21,Dakota Ross,dakota3@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45739,1,2024-02-21,Kate Raji,kate18@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45738,1,2024-02-21,Byron Carlson,byron12@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45736,1,2024-02-21,Phil Spencer,phil0@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45737,1,2024-02-21,Jay Lopez,jay23@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45735,1,2024-02-21,Cristina Nara,cristina15@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45729,1,2024-02-21,Robin Sanz,robin15@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45730,1,2024-02-21,Phillip Sullivan,phillip14@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45727,1,2024-02-20,Nichole She,nichole0@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45723,1,2024-02-20,Katelyn Sanchez,katelyn26@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45724,1,2024-02-20,Maurice Lal,maurice9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45726,1,2024-02-20,Lance Gill,lance13@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45725,1,2024-02-20,Rosa Zhang,rosa0@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45720,1,2024-02-19,Tina Gonzalez,tina20@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45719,1,2024-02-19,Elijah Diaz,elijah23@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45721,1,2024-02-19,Candace Raman,candace12@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45718,1,2024-02-19,Lauren Martinez,lauren35@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45717,1,2024-02-19,Elijah Ross,elijah7@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45722,1,2024-02-19,Rafael Tang,rafael27@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45713,1,2024-02-18,Colleen Cai,colleen22@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45714,1,2024-02-18,Cameron Lewis,cameron39@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45715,1,2024-02-18,Rosa Liang,rosa16@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45716,1,2024-02-18,Tony Kumar,tony10@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45709,1,2024-02-17,Tina Smith,tina10@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45710,1,2024-02-17,Geoffrey Fernandez,geoffrey13@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45708,1,2024-02-17,Ruben Patel,ruben3@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45711,1,2024-02-17,Mariah Barnes,mariah7@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45705,1,2024-02-17,Jackson Phillips,jackson36@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45706,1,2024-02-17,David Diaz,david55@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45712,1,2024-02-17,Meagan Madan,meagan8@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45707,1,2024-02-17,Kaylee Cook,kaylee18@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45704,1,2024-02-17,Stacy Torres,stacy12@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45701,1,2024-02-16,Nicole Taylor,nicole9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45700,1,2024-02-16,Jonathan Phillips,jonathan35@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45702,1,2024-02-16,Ann Malhotra,ann10@adventure-works.com,"Road-650 Red, 58",1,699.0982,55.9279
+SO45703,1,2024-02-16,Darryl Liu,darryl4@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45698,1,2024-02-15,Aidan Wood,aidan2@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO45699,1,2024-02-15,Mary Green,mary28@adventure-works.com,"Road-650 Black, 62",1,699.0982,55.9279
+SO45693,1,2024-02-15,Teresa Gutierrez,teresa11@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45694,1,2024-02-15,Morgan Bennett,morgan71@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45692,1,2024-02-15,Victor Carlson,victor18@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45696,1,2024-02-15,Rafael Xie,rafael26@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45695,1,2024-02-15,Seth Phillips,seth42@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45697,1,2024-02-15,Mya Gonzales,mya17@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45690,1,2024-02-14,Erika Romero,erika6@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45689,1,2024-02-14,Ricky Gutierrez,ricky11@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45685,1,2024-02-14,Adrienne Blanco,adrienne12@adventure-works.com,"Road-650 Red, 60",1,699.0982,55.9279
+SO45684,1,2024-02-14,Donald Chandra,donald4@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45691,1,2024-02-14,Angela Henderson,angela7@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45683,1,2024-02-14,Ian Martin,ian14@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45688,1,2024-02-14,Emma Cooper,emma35@adventure-works.com,"Road-650 Red, 58",1,699.0982,55.9279
+SO45687,1,2024-02-14,Elizabeth Clark,elizabeth23@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45686,1,2024-02-14,Richard Rivera,richard89@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45679,1,2024-02-13,Alberto Navarro,alberto11@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45678,1,2024-02-13,Megan Barnes,megan53@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45680,1,2024-02-13,Haley Torres,haley14@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45681,1,2024-02-13,Gloria Munoz,gloria7@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45682,1,2024-02-13,Ronnie Lu,ronnie9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45673,1,2024-02-12,Amy Wu,amy14@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45674,1,2024-02-12,Lacey Hu,lacey33@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45672,1,2024-02-12,Shannon Hu,shannon19@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45675,1,2024-02-12,Toni Patel,toni2@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45677,1,2024-02-12,Dustin Chander,dustin16@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45668,1,2024-02-12,Jon Luo,jon46@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45671,1,2024-02-12,Mariah Wood,mariah6@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45676,1,2024-02-12,Marc Torres,marc15@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45669,1,2024-02-12,Joan Washington,joan7@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45670,1,2024-02-12,Aidan Ross,aidan4@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45665,1,2024-02-11,Arthur Washington,arthur45@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45664,1,2024-02-11,Jon Ye,jon29@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45666,1,2024-02-11,Ethan Garcia,ethan52@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO45667,1,2024-02-11,Arthur Mehta,arthur16@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45661,1,2024-02-10,Karla Nara,karla18@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO45660,1,2024-02-10,Clarence Liu,clarence40@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45656,1,2024-02-10,Sean Brooks,sean8@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45655,1,2024-02-10,Jose Patterson,jose33@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45657,1,2024-02-10,Taylor Howard,taylor14@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45658,1,2024-02-10,Robert Lee,robert82@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45663,1,2024-02-10,Stacy Alvarez,stacy6@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45662,1,2024-02-10,Gabriella Sanders,gabriella1@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45654,1,2024-02-10,Riley Long,riley7@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45659,1,2024-02-10,Denise Subram,denise14@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45650,1,2024-02-09,Mariah Murphy,mariah39@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45649,1,2024-02-09,Jade Bailey,jade13@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45653,1,2024-02-09,Jessie Ramos,jessie36@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45651,1,2024-02-09,Tasha Jai,tasha12@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45652,1,2024-02-09,Nathaniel Watson,nathaniel1@adventure-works.com,"Road-650 Black, 60",1,699.0982,55.9279
+SO45648,1,2024-02-08,Warren Zhou,warren24@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45645,1,2024-02-08,Adrienne Torres,adrienne8@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45646,1,2024-02-08,Maria Carter,maria53@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45643,1,2024-02-08,Douglas Kapoor,douglas5@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45647,1,2024-02-08,Katherine Wright,katherine68@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45644,1,2024-02-08,Casey She,casey0@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45642,1,2024-02-07,Angela Perry,angela10@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45641,1,2024-02-07,Byron Ortega,byron16@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45639,1,2024-02-06,Derek Shan,derek9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45640,1,2024-02-06,Gloria Alonso,gloria8@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45635,1,2024-02-06,Lucas Sanchez,lucas88@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45636,1,2024-02-06,Spencer Russell,spencer22@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45637,1,2024-02-06,Ariana Cook,ariana19@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45638,1,2024-02-06,Courtney Nelson,courtney7@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45633,1,2024-02-05,Daisuke Yanagishima,daisuke0@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45632,1,2024-02-05,Bonnie Xie,bonnie8@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45631,1,2024-02-05,Clarence Anand,clarence36@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45634,1,2024-02-05,Edwin Lin,edwin8@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45627,1,2024-02-04,Logan Clark,logan71@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45628,1,2024-02-04,Casey Navarro,casey33@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45630,1,2024-02-04,Brenda Perez,brenda25@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45629,1,2024-02-04,Julio Ortega,julio23@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45625,1,2024-02-04,Hunter Rodriguez,hunter53@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45624,1,2024-02-04,Jenna Wright,jenna19@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45626,1,2024-02-04,Victoria Stewart,victoria24@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45623,1,2024-02-04,Jessica Powell,jessica33@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45622,1,2024-02-04,Tamara Tang,tamara15@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45616,1,2024-02-03,Abby Arthur,abby5@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45613,1,2024-02-03,Christian Hughes,christian26@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45621,1,2024-02-03,Clayton Nara,clayton34@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45618,1,2024-02-03,Dawn Lal,dawn32@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45620,1,2024-02-03,Roy Moreno,roy27@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45619,1,2024-02-03,Alex Hill,alex42@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45615,1,2024-02-03,Gabriel Kumar,gabriel25@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO45617,1,2024-02-03,Corey Kumar,corey7@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45614,1,2024-02-03,Isaac Brooks,isaac1@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45611,1,2024-02-02,Devin Nelson,devin32@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45610,1,2024-02-02,Julia Coleman,julia72@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45612,1,2024-02-02,Crystal Gao,crystal16@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45607,1,2024-02-01,Louis Nath,louis34@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279
+SO45606,1,2024-02-01,Devon Deng,devon0@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45609,1,2024-02-01,Max Ferrier,max8@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45608,1,2024-02-01,Frank Carlson,frank26@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45603,1,2024-02-01,Haley Richardson,haley10@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45604,1,2024-02-01,Victoria Russell,victoria66@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45605,1,2024-02-01,Destiny Rogers,destiny26@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45602,1,2024-02-01,Tamara Zhu,tamara3@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45595,1,2024-01-31,Shannon Huang,shannon6@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45594,1,2024-01-31,Christian Thomas,christian46@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45601,1,2024-01-31,Orlando Carlson,orlando18@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45593,1,2024-01-31,Nelson Ortega,nelson21@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45597,1,2024-01-31,Jenna Scott,jenna13@adventure-works.com,"Road-650 Red, 48",1,699.0982,55.9279
+SO45598,1,2024-01-31,Elijah Yang,elijah1@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45600,1,2024-01-31,Holly Martinez,holly17@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45599,1,2024-01-31,Danny Ortega,danny23@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45596,1,2024-01-31,Jessie Gao,jessie19@adventure-works.com,"Road-650 Black, 58",1,699.0982,55.9279
+SO45591,1,2024-01-30,Sebastian Torres,sebastian5@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO45590,1,2024-01-30,Roger Lu,roger16@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45589,1,2024-01-30,Christy Liu,christy4@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45592,1,2024-01-30,Orlando Ashe,orlando5@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45588,1,2024-01-30,Jenny Rai,jenny40@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45587,1,2024-01-30,Nina Yuan,nina7@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45586,1,2024-01-30,Joel Prasad,joel8@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45582,1,2024-01-29,Lucas Murphy,lucas86@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45581,1,2024-01-29,Trinity Richardson,trinity9@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45583,1,2024-01-29,Kyle Foster,kyle11@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45585,1,2024-01-29,Isaiah Ramirez,isaiah6@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45580,1,2024-01-29,Cassie Andersen,cassie11@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45584,1,2024-01-29,Ronald Madan,ronald9@adventure-works.com,"Road-650 Black, 62",1,699.0982,55.9279
+SO45515,1,2024-01-28,Bridget She,bridget1@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45511,1,2024-01-28,Steve Wagner,steve5@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45512,1,2024-01-28,Luis Wang,luis24@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45513,1,2024-01-28,Faith Murphy,faith32@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45514,1,2024-01-28,Thomas Young,thomas53@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45508,1,2024-01-27,Roberto Sanz,roberto18@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45509,1,2024-01-27,Shaun Sharma,shaun10@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45510,1,2024-01-27,Lauren Washington,lauren60@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45502,1,2024-01-26,Timothy Young,timothy42@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45497,1,2024-01-26,Ian Wilson,ian8@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45498,1,2024-01-26,Kayla Flores,kayla36@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45496,1,2024-01-26,Rachel Cox,rachel39@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45499,1,2024-01-26,Bailey Hernandez,bailey38@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45501,1,2024-01-26,Heidi Chandra,heidi4@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45505,1,2024-01-26,Carla Rana,carla13@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45506,1,2024-01-26,Franklin Sun,franklin12@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45507,1,2024-01-26,Stefanie Rana,stefanie8@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45503,1,2024-01-26,Isabella Bryant,isabella28@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45504,1,2024-01-26,Jerry Ferrier,jerry22@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45500,1,2024-01-26,Lawrence Blanco,lawrence14@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45493,1,2024-01-25,Seth Brown,seth4@adventure-works.com,"Road-650 Red, 58",1,699.0982,55.9279
+SO45495,1,2024-01-25,Krystal Gao,krystal15@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO45494,1,2024-01-25,Kari Martinez,kari18@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45492,1,2024-01-25,Jared Kelly,jared4@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279
+SO45491,1,2024-01-25,Justin Brown,justin35@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45488,1,2024-01-24,Martin Perez,martin5@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45487,1,2024-01-24,Shawna Andersen,shawna14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45489,1,2024-01-24,Stanley Madan,stanley8@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45484,1,2024-01-24,Juan James,juan9@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45490,1,2024-01-24,Eric Foster,eric23@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45483,1,2024-01-24,Adriana Chandra,adriana2@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45486,1,2024-01-24,Dominic Srini,dominic8@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45485,1,2024-01-24,Jacqueline Powell,jacqueline9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45482,1,2024-01-24,Brandy Sanchez,brandy16@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45478,1,2024-01-23,Isaiah Edwards,isaiah23@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45477,1,2024-01-23,Brittney Hu,brittney19@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45479,1,2024-01-23,Sheena Deng,sheena1@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45481,1,2024-01-23,Robin Moreno,robin3@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45480,1,2024-01-23,Lawrence Gutierrez,lawrence9@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45476,1,2024-01-22,Wyatt Williams,wyatt2@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45475,1,2024-01-22,Alfredo Suarez,alfredo20@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45474,1,2024-01-22,Carl Raji,carl20@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45469,1,2024-01-22,Ethan Thompson,ethan49@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45473,1,2024-01-22,Tara Xu,tara5@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45472,1,2024-01-22,Meredith Martinez,meredith17@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45468,1,2024-01-22,Kyle Bryant,kyle13@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45467,1,2024-01-22,Dustin Deng,dustin1@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45471,1,2024-01-22,Erin Cook,erin25@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45470,1,2024-01-22,Cameron Henderson,cameron0@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45466,1,2024-01-21,Meagan Prasad,meagan9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45461,1,2024-01-20,Alexis Moore,alexis7@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45462,1,2024-01-20,Hannah Foster,hannah37@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45463,1,2024-01-20,Jonathan Hill,jonathan43@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45464,1,2024-01-20,Alvin Sharma,alvin32@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45465,1,2024-01-20,Carlos Morgan,carlos15@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO45456,1,2024-01-19,Elijah Powell,elijah12@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45460,1,2024-01-19,Julio Navarro,julio10@adventure-works.com,"Road-650 Black, 60",1,699.0982,55.9279
+SO45459,1,2024-01-19,Brad Shan,brad10@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45458,1,2024-01-19,Alvin Jai,alvin33@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45455,1,2024-01-19,Ebony Garcia,ebony15@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45457,1,2024-01-19,Christian Butler,christian29@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45453,1,2024-01-18,Donna Xie,donna3@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45454,1,2024-01-18,Megan Flores,megan61@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45451,1,2024-01-17,Hailey Turner,hailey47@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45450,1,2024-01-17,Carson Jenkins,carson5@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45452,1,2024-01-17,Cedric Cai,cedric21@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45449,1,2024-01-17,Krista Martin,krista0@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45447,1,2024-01-16,Gloria Ortega,gloria22@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45448,1,2024-01-16,Terrance Martinez,terrance15@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45446,1,2024-01-16,Jenna Parker,jenna7@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45442,1,2024-01-15,Justin Bryant,justin15@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45443,1,2024-01-15,Julia Thompson,julia37@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45444,1,2024-01-15,Claudia Ye,claudia8@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45445,1,2024-01-15,Stacy Dominguez,stacy13@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45440,1,2024-01-15,Daisy Romero,daisy5@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45441,1,2024-01-15,Jasmine Torres,jasmine32@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45434,1,2024-01-14,Nicholas Thompson,nicholas16@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45433,1,2024-01-14,Bradley Nara,bradley19@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45432,1,2024-01-14,Pamela Subram,pamela16@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45439,1,2024-01-14,Jaime Xie,jaime27@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO45435,1,2024-01-14,Jim Rodman,jim4@adventure-works.com,"Road-650 Black, 62",1,699.0982,55.9279
+SO45438,1,2024-01-14,Paige Howard,paige35@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45436,1,2024-01-14,Joshua Taylor,joshua10@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45437,1,2024-01-14,Lucas Blue,lucas85@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45431,1,2024-01-13,James Miller,james81@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45430,1,2024-01-13,Natalie Roberts,natalie47@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45429,1,2024-01-13,Justin Griffin,justin18@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45427,1,2024-01-13,Ivan Suri,ivan0@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45426,1,2024-01-13,Kari Smith,kari9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45425,1,2024-01-13,Jaime Suarez,jaime21@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45428,1,2024-01-13,Ian Richardson,ian76@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45423,1,2024-01-12,Beth Gill,beth16@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45424,1,2024-01-12,Alexa Rivera,alexa15@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45422,1,2024-01-12,Jared Moyer,jared16@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45417,1,2024-01-11,Cole Richardson,cole11@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45415,1,2024-01-11,Morgan Hall,morgan20@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45411,1,2024-01-11,Kayla Rodriguez,kayla19@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45416,1,2024-01-11,Jessica Perry,jessica32@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45413,1,2024-01-11,Kristi Perez,kristi39@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45410,1,2024-01-11,Donald Srini,donald10@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45412,1,2024-01-11,Chloe Sanders,chloe65@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45420,1,2024-01-11,Orlando Serrano,orlando16@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45419,1,2024-01-11,Alejandro Liu,alejandro6@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45421,1,2024-01-11,Mackenzie Hill,mackenzie33@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45418,1,2024-01-11,Kristopher Gonzalez,kristopher17@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45414,1,2024-01-11,Kelli Kumar,kelli30@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279
+SO45409,1,2024-01-10,Marvin Sanz,marvin20@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45405,1,2024-01-10,Lucas Lewis,lucas35@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45403,1,2024-01-10,Caroline Washington,caroline14@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45401,1,2024-01-10,Julio Suarez,julio20@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45400,1,2024-01-10,Brett Garcia,brett14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45402,1,2024-01-10,Megan Stewart,megan27@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45404,1,2024-01-10,Natalie Adams,natalie58@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45407,1,2024-01-10,Thomas Adams,thomas51@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45408,1,2024-01-10,Victoria Diaz,victoria68@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45406,1,2024-01-10,Hunter Kumar,hunter23@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45398,1,2024-01-09,Lisa Zhu,lisa17@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45397,1,2024-01-09,Harold McDonald,harold11@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45399,1,2024-01-09,Kaitlyn Powell,kaitlyn75@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45395,1,2024-01-08,Lydia Gonzalez,lydia17@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45396,1,2024-01-08,Suzanne Liu,suzanne5@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45394,1,2024-01-08,Jaclyn Andersen,jaclyn37@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45393,1,2024-01-08,Michele Lal,michele9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45389,1,2024-01-07,Trevor Bryant,trevor18@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45387,1,2024-01-07,Tiffany Li,tiffany3@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45392,1,2024-01-07,Randall Gomez,randall2@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45391,1,2024-01-07,Raymond Raman,raymond14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45390,1,2024-01-07,Randall Martin,randall1@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45388,1,2024-01-07,Isabel Bryant,isabel17@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45379,1,2024-01-06,Savannah Travers,savannah12@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45378,1,2024-01-06,Katherine James,katherine20@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45384,1,2024-01-06,Chase Morris,chase19@adventure-works.com,"Road-650 Black, 44",1,699.0982,55.9279
+SO45386,1,2024-01-06,Troy Subram,troy14@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45381,1,2024-01-06,Jordan Long,jordan6@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45380,1,2024-01-06,Clarence Jai,clarence26@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45382,1,2024-01-06,Julia Wright,julia17@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45377,1,2024-01-06,Dominique Lopez,dominique14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45383,1,2024-01-06,Kevin Edwards,kevin38@adventure-works.com,"Road-650 Black, 58",1,699.0982,55.9279
+SO45385,1,2024-01-06,Maria Rogers,maria3@adventure-works.com,"Road-650 Black, 60",1,699.0982,55.9279
+SO45371,1,2024-01-05,Jaime Alonso,jaime9@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45376,1,2024-01-05,Edgar Mehta,edgar15@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45375,1,2024-01-05,Allen Fernandez,allen14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45374,1,2024-01-05,Jordan Henderson,jordan1@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45372,1,2024-01-05,Jarred Gill,jarred1@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45373,1,2024-01-05,Richard Garcia,richard10@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45367,1,2024-01-04,Willie Liu,willie4@adventure-works.com,"Road-650 Red, 48",1,699.0982,55.9279
+SO45369,1,2024-01-04,Kathleen Navarro,kathleen12@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45370,1,2024-01-04,Shawn Shen,shawn4@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45366,1,2024-01-04,Frank Gomez,frank31@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279
+SO45365,1,2024-01-04,Jacob Wilson,jacob7@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45368,1,2024-01-04,Trinity Cook,trinity18@adventure-works.com,"Road-650 Red, 48",1,699.0982,55.9279
+SO45364,1,2024-01-04,Claudia Li,claudia2@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45359,1,2024-01-03,Marshall Chavez,marshall35@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45363,1,2024-01-03,Patricia Saunders,patricia14@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45362,1,2024-01-03,Kristopher Fernandez,kristopher14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45361,1,2024-01-03,Caitlin Richardson,caitlin7@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45358,1,2024-01-03,Alexandra Thomas,alexandra74@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45360,1,2024-01-03,Jonathan Gonzales,jonathan16@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45357,1,2024-01-03,Alfredo Dominguez,alfredo14@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45353,1,2024-01-02,Jack Zimmerman,jack24@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45355,1,2024-01-02,Maurice Sharma,maurice10@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45354,1,2024-01-02,Armando Dominguez,armando13@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45356,1,2024-01-02,Douglas Suri,douglas4@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45352,1,2024-01-02,Daisy Munoz,daisy3@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45351,1,2024-01-02,Seth Jackson,seth12@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45347,1,2024-01-01,Clarence Raji,clarence35@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO45345,1,2024-01-01,Bonnie Yuan,bonnie12@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45348,1,2024-01-01,Leah Guo,leah14@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45349,1,2024-01-01,Candice Sun,candice19@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45350,1,2024-01-01,Ruben Garcia,ruben16@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45346,1,2024-01-01,Dylan Harris,dylan43@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46119,1,2023-12-31,Tiffany Guo,tiffany18@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO46117,1,2023-12-31,Clayton Rai,clayton35@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO46118,1,2023-12-31,Carla Sullivan,carla15@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO46116,1,2023-12-31,Emma Taylor,emma8@adventure-works.com,"Road-650 Black, 58",1,699.0982,55.9279
+SO46113,1,2023-12-31,Gabriel Green,gabriel45@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO46112,1,2023-12-31,Dennis Huang,dennis7@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46108,1,2023-12-31,Devin Henderson,devin43@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO46114,1,2023-12-31,Cedric Gao,cedric14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO46111,1,2023-12-31,Devin Perez,devin35@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO46115,1,2023-12-31,Mariah Ross,mariah8@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46109,1,2023-12-31,Sebastian Stewart,sebastian21@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46110,1,2023-12-31,Abigail Howard,abigail16@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO46018,1,2023-12-30,Seth Williams,seth2@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46013,1,2023-12-30,Brooke Richardson,brooke9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO46010,1,2023-12-30,Jermaine Lopez,jermaine15@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO46011,1,2023-12-30,Deborah Goel,deborah21@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO46016,1,2023-12-30,Kurt Sharma,kurt9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46017,1,2023-12-30,Katelyn Parker,katelyn30@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO46022,1,2023-12-30,Kelsey Becker,kelsey19@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO46019,1,2023-12-30,Seth Turner,seth41@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO46020,1,2023-12-30,Raymond Arthur,raymond8@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO46021,1,2023-12-30,Jeffery Lu,jeffery12@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO46012,1,2023-12-30,Veronica Rana,veronica12@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279
+SO46015,1,2023-12-30,Joshua Rodriguez,joshua22@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO46014,1,2023-12-30,Kaitlyn Long,kaitlyn76@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO46001,1,2023-12-29,Olivia Foster,olivia61@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45999,1,2023-12-29,Brianna Martin,brianna13@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO46006,1,2023-12-29,Cesar Chandra,cesar2@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO46007,1,2023-12-29,Wendy Carlson,wendy17@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46009,1,2023-12-29,Roy Sanz,roy40@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO46008,1,2023-12-29,Rachael Sai,rachael5@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO46000,1,2023-12-29,Haley Henderson,haley24@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO46003,1,2023-12-29,Christian Ross,christian18@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO46002,1,2023-12-29,Jessie Alonso,jessie6@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO46004,1,2023-12-29,Alyssa Morgan,alyssa30@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO46005,1,2023-12-29,Miguel Lee,miguel22@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45997,1,2023-12-28,Charles Reed,charles68@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45996,1,2023-12-28,Tyler Brown,tyler9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45994,1,2023-12-28,Emma Sanchez,emma25@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45993,1,2023-12-28,Ian Long,ian50@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45992,1,2023-12-28,Pedro Sara,pedro10@adventure-works.com,"Road-650 Black, 60",1,699.0982,55.9279
+SO45998,1,2023-12-28,Carly Anand,carly20@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO45995,1,2023-12-28,Aidan Diaz,aidan23@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45990,1,2023-12-27,Heather Zheng,heather18@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45989,1,2023-12-27,Clarence Gao,clarence8@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45988,1,2023-12-27,Devin Martinez,devin16@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45985,1,2023-12-27,Elizabeth Weisman,elizabeth6@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45984,1,2023-12-27,Caroline Butler,caroline15@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45986,1,2023-12-27,Chase Kelly,chase3@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45991,1,2023-12-27,Audrey Ramos,audrey19@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45987,1,2023-12-27,Jason Mitchell,jason40@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45983,1,2023-12-27,Isabella Ward,isabella2@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45981,1,2023-12-26,Marvin Moreno,marvin7@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45982,1,2023-12-26,Kristine Gill,kristine14@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45979,1,2023-12-26,Nichole Tang,nichole4@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45980,1,2023-12-26,Clayton Andersen,clayton31@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45972,1,2023-12-25,Heidi Sara,heidi12@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45977,1,2023-12-25,Shawn Chander,shawn17@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45976,1,2023-12-25,Jill Ortega,jill30@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45973,1,2023-12-25,Gavin Diaz,gavin20@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45978,1,2023-12-25,Latasha Munoz,latasha7@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45971,1,2023-12-25,Carla Raman,carla14@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45975,1,2023-12-25,Robert Davis,robert64@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45974,1,2023-12-25,Zachary Thompson,zachary46@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45970,1,2023-12-24,Antonio Patterson,antonio10@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45968,1,2023-12-24,Fernando Flores,fernando55@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45969,1,2023-12-24,Jay Madan,jay14@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45967,1,2023-12-24,Roger Sharma,roger37@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO45965,1,2023-12-23,Colin Shan,colin33@adventure-works.com,"Road-650 Red, 58",1,699.0982,55.9279
+SO45964,1,2023-12-23,Ioannis Xylaras,ioannis0@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45962,1,2023-12-23,Louis Zhang,louis38@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45963,1,2023-12-23,Anna Watson,anna22@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45957,1,2023-12-23,Juan Gray,juan16@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45958,1,2023-12-23,Daniel Garcia,daniel8@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45959,1,2023-12-23,Faith Patterson,faith9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45966,1,2023-12-23,Brandy Saunders,brandy6@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45960,1,2023-12-23,Jessica Brown,jessica51@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45961,1,2023-12-23,Hannah Wood,hannah25@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45954,1,2023-12-22,Antonio Washington,antonio13@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45956,1,2023-12-22,Janet Browning,janet21@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45953,1,2023-12-22,Megan Anderson,megan13@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45955,1,2023-12-22,Ethan Foster,ethan12@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45950,1,2023-12-21,George Fernandez,george22@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45949,1,2023-12-21,Tanya Jimenez,tanya1@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45948,1,2023-12-21,Andrea Richardson,andrea10@adventure-works.com,"Road-650 Black, 52",1,699.0982,55.9279
+SO45951,1,2023-12-21,Rachael Rodriguez,rachael18@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45952,1,2023-12-21,Randy Xu,randy14@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45938,1,2023-12-20,Ariana Sanchez,ariana22@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45946,1,2023-12-20,Meagan Rana,meagan11@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45947,1,2023-12-20,Dawn Huang,dawn7@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45939,1,2023-12-20,Elizabeth Garcia,elizabeth20@adventure-works.com,"Road-650 Black, 60",1,699.0982,55.9279
+SO45937,1,2023-12-20,Miguel Baker,miguel33@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45943,1,2023-12-20,Kaylee Sanders,kaylee2@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45944,1,2023-12-20,Sharon Rai,sharon23@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45940,1,2023-12-20,Dawn Raji,dawn45@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45941,1,2023-12-20,Marshall Yuan,marshall28@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45942,1,2023-12-20,Colleen Harrison,colleen19@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45945,1,2023-12-20,Orlando Gutierrez,orlando10@adventure-works.com,"Road-650 Red, 62",1,699.0982,55.9279
+SO45935,1,2023-12-19,Franklin Xu,franklin11@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO45933,1,2023-12-19,Sarah Jackson,sarah14@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45934,1,2023-12-19,Angel Baker,angel30@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45936,1,2023-12-19,Fernando King,fernando25@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45928,1,2023-12-18,Mary Patterson,mary40@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45929,1,2023-12-18,Aimee She,aimee17@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45927,1,2023-12-18,Isabel Jenkins,isabel7@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45926,1,2023-12-18,Benjamin Coleman,benjamin7@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45931,1,2023-12-18,Tasha Kumar,tasha8@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45932,1,2023-12-18,Scott Rodgers,scott10@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45930,1,2023-12-18,Jaclyn Huang,jaclyn6@adventure-works.com,"Road-650 Red, 48",1,699.0982,55.9279
+SO45920,1,2023-12-17,Morgan Rodriguez,morgan41@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45922,1,2023-12-17,Jose Thompson,jose77@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45921,1,2023-12-17,Brendan Chande,brendan13@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45919,1,2023-12-17,Jessica Alexander,jessica43@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45923,1,2023-12-17,Abigail Brooks,abigail22@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45925,1,2023-12-17,George Gonzalez,george25@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45918,1,2023-12-17,Tamara Chander,tamara27@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45917,1,2023-12-17,Deanna Ramos,deanna44@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45924,1,2023-12-17,Stacy Martin,stacy1@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45916,1,2023-12-16,Sharon Salavaria,sharon4@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45914,1,2023-12-16,Virginia Gonzalez,virginia21@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45915,1,2023-12-16,Jaclyn Nara,jaclyn40@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45911,1,2023-12-16,Devin Coleman,devin44@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45910,1,2023-12-16,Miranda Long,miranda9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45912,1,2023-12-16,Vanessa Washington,vanessa14@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45913,1,2023-12-16,Olivia Torres,olivia39@adventure-works.com,"Mountain-100 Silver, 38",1,3399.99,271.9992
+SO45904,1,2023-12-15,Cesar Mehta,cesar13@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45907,1,2023-12-15,Trisha Liu,trisha22@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45906,1,2023-12-15,Ernest Zhu,ernest14@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45905,1,2023-12-15,Rafael She,rafael23@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45902,1,2023-12-15,Faith Simmons,faith14@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45903,1,2023-12-15,Levi Subram,levi12@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45898,1,2023-12-15,Cameron White,cameron31@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45901,1,2023-12-15,Janet Dominguez,janet18@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45899,1,2023-12-15,Morgan Miller,morgan29@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45900,1,2023-12-15,Haley Alexander,haley38@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45897,1,2023-12-15,Mathew Rubio,mathew17@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45908,1,2023-12-15,Kaylee Hill,kaylee35@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45909,1,2023-12-15,Jenny Zheng,jenny21@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45895,1,2023-12-14,Benjamin Taylor,benjamin43@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45896,1,2023-12-14,Bonnie Nath,bonnie24@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45894,1,2023-12-14,Keith Lal,keith11@adventure-works.com,"Road-650 Black, 58",1,699.0982,55.9279
+SO45893,1,2023-12-13,Connor Bryant,connor12@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45892,1,2023-12-13,Valerie She,valerie25@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45890,1,2023-12-13,Frank Navarro,frank17@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45891,1,2023-12-13,Mitchell Kumar,mitchell7@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45884,1,2023-12-12,Johnny Chavez,johnny16@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45882,1,2023-12-12,Allison Gonzalez,allison31@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45880,1,2023-12-12,Natalie Cook,natalie5@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45889,1,2023-12-12,Adrienne Gomez,adrienne1@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45883,1,2023-12-12,Jessie Wang,jessie7@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45885,1,2023-12-12,Larry Vazquez,larry17@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45878,1,2023-12-12,Teresa Vazquez,teresa15@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45887,1,2023-12-12,Jessica Ross,jessica28@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279
+SO45888,1,2023-12-12,Valerie Wang,valerie2@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45879,1,2023-12-12,Dominic Raman,dominic12@adventure-works.com,"Road-650 Black, 44",1,699.0982,55.9279
+SO45881,1,2023-12-12,Isabelle Bryant,isabelle16@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45886,1,2023-12-12,Devin Griffin,devin58@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45876,1,2023-12-11,Brittney Zhang,brittney0@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45874,1,2023-12-11,Ashley Alexander,ashley46@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45875,1,2023-12-11,Christopher Thomas,christopher11@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45873,1,2023-12-11,Ashlee Jai,ashlee18@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45877,1,2023-12-11,Jaclyn Zheng,jaclyn21@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45872,1,2023-12-11,Cindy Patel,cindy3@adventure-works.com,"Mountain-100 Silver, 48",1,3399.99,271.9992
+SO45868,1,2023-12-10,Dana Ruiz,dana18@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45869,1,2023-12-10,Jessica Martin,jessica62@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45867,1,2023-12-10,Cameron Moore,cameron48@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45871,1,2023-12-10,Dana Ramos,dana10@adventure-works.com,"Road-650 Red, 44",1,699.0982,55.9279
+SO45870,1,2023-12-10,Mark Bebbington,mark8@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45866,1,2023-12-09,Kelli Wu,kelli7@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45865,1,2023-12-09,Riley Reed,riley39@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45864,1,2023-12-09,Katrina Chande,katrina13@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45863,1,2023-12-09,Ryan Zhang,ryan27@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45862,1,2023-12-09,Ernest Xu,ernest12@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45859,1,2023-12-08,Lindsey Deng,lindsey1@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45861,1,2023-12-08,Aaron Wright,aaron52@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45860,1,2023-12-08,Anthony Rodriguez,anthony6@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45856,1,2023-12-07,Kristina Lopez,kristina17@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45852,1,2023-12-07,Chad Shen,chad3@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45853,1,2023-12-07,Isabelle Barnes,isabelle3@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45854,1,2023-12-07,Dominique Subram,dominique10@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45855,1,2023-12-07,Grant Pal,grant14@adventure-works.com,"Road-650 Black, 44",1,699.0982,55.9279
+SO45851,1,2023-12-07,Greg Taylor,greg10@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45850,1,2023-12-07,Seth Mitchell,seth38@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45857,1,2023-12-07,Warren Andersen,warren2@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45858,1,2023-12-07,Dorothy Robinson,dorothy3@adventure-works.com,"Mountain-100 Black, 44",1,3374.99,269.9992
+SO45848,1,2023-12-06,Adam Gonzalez,adam39@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45849,1,2023-12-06,Raul Luo,raul6@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45845,1,2023-12-06,Benjamin Shan,benjamin33@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45846,1,2023-12-06,Joseph Jackson,joseph18@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45847,1,2023-12-06,Gabriel Chow,gabriel22@adventure-works.com,"Mountain-100 Silver, 42",1,3399.99,271.9992
+SO45844,1,2023-12-05,Andrew Rodriguez,andrew27@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45843,1,2023-12-05,Sierra Roberts,sierra3@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45842,1,2023-12-05,Edward Lewis,edward43@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45840,1,2023-12-05,Latasha Rubio,latasha21@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45841,1,2023-12-05,Jaclyn Chander,jaclyn39@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45836,1,2023-12-04,Nelson Harrison,nelson9@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45835,1,2023-12-04,Victoria Morris,victoria26@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45839,1,2023-12-04,Philip Carlson,philip17@adventure-works.com,"Mountain-100 Black, 42",1,3374.99,269.9992
+SO45833,1,2023-12-04,Hannah Patterson,hannah33@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45834,1,2023-12-04,Joe Torres,joe35@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45838,1,2023-12-04,Gina Dominguez,gina13@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45837,1,2023-12-04,Clarence Ye,clarence5@adventure-works.com,"Mountain-100 Black, 38",1,3374.99,269.9992
+SO45829,1,2023-12-03,Darren Malhotra,darren7@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45830,1,2023-12-03,Jamie Guo,jamie21@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45831,1,2023-12-03,Rodney Blanco,rodney11@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45827,1,2023-12-03,Jon Pal,jon8@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45825,1,2023-12-03,Dennis Ware,dennis0@adventure-works.com,"Road-150 Red, 56",1,3578.27,286.2616
+SO45826,1,2023-12-03,Jonathan Powell,jonathan8@adventure-works.com,"Road-150 Red, 62",1,3578.27,286.2616
+SO45832,1,2023-12-03,Joe Rana,joe14@adventure-works.com,"Mountain-100 Black, 48",1,3374.99,269.9992
+SO45824,1,2023-12-03,Mackenzie Campbell,mackenzie29@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45828,1,2023-12-03,Austin Foster,austin12@adventure-works.com,"Road-650 Red, 52",1,699.0982,55.9279
+SO45822,1,2023-12-02,Mindy Xu,mindy9@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+SO45823,1,2023-12-02,Veronica Kapoor,veronica1@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45821,1,2023-12-02,Gloria Torres,gloria12@adventure-works.com,"Mountain-100 Silver, 44",1,3399.99,271.9992
+SO45817,1,2023-12-01,Riley Simmons,riley13@adventure-works.com,"Road-150 Red, 44",1,3578.27,286.2616
+SO45818,1,2023-12-01,Ariana Morgan,ariana20@adventure-works.com,"Road-650 Red, 48",1,699.0982,55.9279
+SO45816,1,2023-12-01,Taylor Garcia,taylor63@adventure-works.com,"Road-150 Red, 52",1,3578.27,286.2616
+SO45820,1,2023-12-01,Shawn Tang,shawn6@adventure-works.com,"Road-650 Black, 48",1,699.0982,55.9279
+SO45819,1,2023-12-01,George Garcia,george21@adventure-works.com,"Road-150 Red, 48",1,3578.27,286.2616
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
